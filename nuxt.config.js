@@ -42,6 +42,11 @@ export default {
     '@nuxtjs/pwa',
   ],
 
+  strapi: {
+    entities: ['products'],
+    url: 'https://shrouded-ridge-62535.herokuapp.com/'
+  },
+
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
 
