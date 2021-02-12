@@ -86,17 +86,17 @@ body, html{
 }
 
 .pimg1{
-  background-image:url('../img/image1.jpg');
+  background-image:url('../static/image1.jpg');
   min-height:100%;
 }
 
 .pimg2{
-  background-image:url('../img/image2.jpg');
+  background-image:url('../static/image2.jpg');
   min-height:400px;
 }
 
 .pimg3{
-  background-image:url('~/static/image3.jpg');
+  background-image:url('../static/image3.jpg');
   min-height:400px;
 }
 

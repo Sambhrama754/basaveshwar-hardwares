@@ -6,7 +6,9 @@
     <ul v-else>
       <hr />
       <b-container>
+        <center>
         <h1>Shop Variety Of Products</h1>
+        </center>
       </b-container>
       <hr />
       <b-row>
@@ -23,6 +25,8 @@
             >
               <b-card-text>
                 {{ `${proucts.description}` }}
+                <br>
+                {{  }}
               </b-card-text>
             </b-card>
           </b-col>
@@ -54,3 +58,11 @@ export default {
   },
 };
 </script>
+
+<style>
+h1{
+  margin: auto;
+  left: 200px;
+  right: auto;
+  }
+</style>
