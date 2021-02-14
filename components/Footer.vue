@@ -31,7 +31,6 @@ export default {};
 
 #container {
   padding-top: 20px;
-  margin-top: 20px;
   width: 100vw;
   color: white;
   background-color: #03020c;
