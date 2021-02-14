@@ -33,8 +33,7 @@ export default {};
   padding-top: 20px;
   width: 100vw;
   color: white;
-  background-color: #03020c;
-  display: flex;
+  background-color: #343a40;
   flex-direction: column;
   align-items: center;
 }

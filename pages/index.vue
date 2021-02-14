@@ -1,6 +1,6 @@
 <template>
   <div>
-  <section class="section section-dark">
+    <section class="section section-dark">
       <h2>Section One</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt,
