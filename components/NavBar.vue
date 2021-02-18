@@ -7,6 +7,9 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
         <b-nav-item href="/shop">Shop Products</b-nav-item>
+        <b-nav-item href="/about">About Us</b-nav-item>
+        <b-nav-item href="/contactus">Contact Us</b-nav-item>
+
       </b-navbar-nav>
 
     </b-collapse>

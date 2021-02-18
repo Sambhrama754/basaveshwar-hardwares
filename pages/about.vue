@@ -1,8 +1,5 @@
 <template>
-<div>
-    <hr>
-    <hr>
-</div>
+
 </template>
 
 <script>
